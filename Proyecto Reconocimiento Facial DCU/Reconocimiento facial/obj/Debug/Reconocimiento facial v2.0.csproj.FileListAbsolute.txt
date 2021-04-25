@@ -1,0 +1,40 @@
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojResolveAssemblyReference.cache
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojAssemblyReference.cache
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+D:\Bibliotecas\Documentos\Universidad Yacambu\Inteligencia Artificial\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojResolveAssemblyReference.cache
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\ProyectoIA_Grillet-Cordoba-Linarez-Urdaneta\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.Cache
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\Proyecto Reconocimiento Facial DCU\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\Proyecto Reconocimiento Facial DCU\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\Proyecto Reconocimiento Facial DCU\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\Proyecto Reconocimiento Facial DCU\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\Proyecto Reconocimiento Facial DCU\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojResolveAssemblyReference.cache
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\Proyecto Reconocimiento Facial DCU\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\Proyecto Reconocimiento Facial DCU\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\Proyecto Reconocimiento Facial DCU\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+C:\Users\Music\Documents\itla\itla 2020\C1 2021\Diseño Centrado en el usuario\face ID\Proyecto Reconocimiento Facial DCU\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.Cache
